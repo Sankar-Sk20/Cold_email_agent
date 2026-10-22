@@ -1,6 +1,6 @@
 # Agentic agent for Cold Emailing
 
-An agentic AI web application that generates high-converting B2B cold emails using **Google Gemini**, built with **FastAPI** (Python) and **React + Tailwind CSS**. Fully deployed with backend API hosted on **Render** and frontend hosted on **Vercel**.
+An agentic AI web application that generates high-converting B2B cold emails using **Google Gemini**, built with **FastAPI** (Python) and **React + Tailwind CSS**. Fully deployed with backend API hosted on **Render** and frontend hosted on **Vercel**. 
 
 ---
 
